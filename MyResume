@@ -1,0 +1,86 @@
+\documentclass[a4paper,11pt]{article}
+
+% Packages
+\usepackage[margin=0.8in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+
+% Section formatting
+\titleformat{\section}{\large\bfseries\vspace{-4pt}}{}{0em}{}[\titlerule\vspace{-6pt}]
+
+% Item spacing
+\setlist[itemize]{noitemsep, topsep=0pt}
+
+%-----------------------------------------------
+%--------------- RESUME START ------------------
+%-----------------------------------------------
+
+\begin{document}
+
+%-------------------- HEADER -------------------
+\begin{center}
+{\LARGE \textbf{ADITYA G MAHEKAR}}\\[4pt]
+Karwar, India • IN-581304 • +91 9480100787 \\
+\href{mailto:mahekaraditya468@gmail.com}{mahekaraditya468@gmail.com} •
+\href{https://www.linkedin.com/in/adityamahekar}{linkedin.com/in/adityamahekar} •
+\href{https://github.com/adityamahekar}{github.com/adityamahekar}
+\end{center}
+
+%-------------------- EDUCATION -------------------
+\section{Education}
+
+\textbf{BMS Institute of Technology and Management} \hfill Bengaluru, India \\
+Bachelor of Engineering in Computer Science \hfill 2025 \\[4pt]
+
+\textbf{Government Polytechnic College, Karwar} \hfill Karwar, India \\
+Diploma in Mechanical Engineering — CGPA: 9.56/10 \hfill 2022
+
+%-------------------- EXPERIENCE -------------------
+\section{Experience}
+
+\textbf{Fresher} \hfill 2024–Present \\
+Actively seeking opportunities to apply technical knowledge, work in real-world projects, and contribute to impactful engineering solutions.
+
+%-------------------- PROJECTS -------------------
+\section{Projects}
+
+\textbf{Education Technology Platform} — HTML, CSS  
+\begin{itemize}
+    \item Developed an interactive EdTech platform enabling personalized learning paths.
+    \item Designed responsive UI to improve student engagement and accessibility.
+\end{itemize}
+
+\textbf{Pick and Place Robot} — Automation \& Robotics  
+\begin{itemize}
+    \item Built a robotic system capable of identifying, picking, and placing objects with precision.
+    \item Integrated mechanical systems with microcontroller-based task automation.
+\end{itemize}
+
+%-------------------- SKILLS -------------------
+\section{Technical Skills}
+
+\textbf{Programming:} Java, C, Python, JavaScript, Motoko, CNC \\
+\textbf{Web Development:} HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, jQuery, DOM Manipulation, php \\
+\textbf{Database \& APIs:} MySQL, PostgreSQL, MongoDB, SupaBase,  APIs, Authentication \\
+\textbf{Emerging Tech:} Blockchain, NFT Minting, IoT, Automation \& Robotics, Robotic Simulation \\
+\textbf{Tools:} Git, GitHub, Bash, VS Code, Postman, MS Office \\
+\textbf{Design \& Methodology:} UI/UX, Web Design, Data Visualization, Agile Methods
+
+%-------------------- KEY COURSES -------------------
+\section{Key Courses}
+Data Structures \& Algorithms, Operating Systems, MongoDB, Python, Software Engineering
+
+%-------------------- ACTIVITIES -------------------
+\section{Activities}
+
+\textbf{Rotary Club Member}  
+\begin{itemize}
+    \item Participated in community service, charity events, and public welfare initiatives.
+\end{itemize}
+
+%-----------------------------------------------
+%--------------- RESUME END --------------------
+%-----------------------------------------------
+
+\end{document}
