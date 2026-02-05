@@ -1,3 +1,3 @@
 # My Resume
 
-[📄 View Resume (Google Drive)](https://drive.google.com/file/d/1gr1NMqXJpA-4huOiFQDXpAG5GN_7g0iW/view)
+[📄 View Resume (Google Drive)](https://drive.google.com/drive/folders/19aYPKYcX2Uwi5auFQ9-TOR5-myeCgDnV)
